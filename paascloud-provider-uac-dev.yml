@@ -42,7 +42,7 @@ security:
       filter-order: 3
 
 paascloud:
- # enableSqlLogInterceptor: false
+  enableSqlLogInterceptor: false
   aliyun:
     rocketMq:
       enable: true
